@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hola" type="id" />
+    <item name="invertirp" type="id" />
+    <item name="mayuscula" type="id" />
+</resources>
